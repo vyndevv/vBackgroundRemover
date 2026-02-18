@@ -16,14 +16,14 @@ A professional, easy-to-use desktop application to remove backgrounds from image
 
 ## 🗒️ Some information
 
-You can find the source code of the application in this repository. To use the tool without installing Python, download the latest version from the [Releases](https://github.com/YOUR_USERNAME/background-remover/releases) section.
+You can find the source code of the application in this repository. To use the tool without installing Python, download the latest version from the [Releases](https://github.com/vyndevv/vBackgroundRemover/releases) section.
 
 ## 🛠️ Installation
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/background-remover.git
-   cd background-remover
+   git clone https://github.com/vyndevv/vBackgroundRemover.git
+   cd vBackgroundRemover
    ```
 
 2. **Create a virtual environment**:
